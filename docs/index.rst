@@ -1,4 +1,4 @@
-.. F5 Advanced WAF セットアップガイド documentation master file, created by F5 Japan in 2020.
+.. F5CS EAP セットアップガイド documentation master file, created by F5 Japan in 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
@@ -13,9 +13,9 @@ F5 Cloud Services Essential App Protect Serice 簡単セットアップガイド
 このページでは、これらのオフィシャルなドキュメントの補足となる資料や、複数の機能を組合せてソリューションを実現する方法をご紹介いたします。
 F5のオフィシャルなドキュメントはこちらにございます。
 
-- AskF5: https://support.f5.com/csp/home
 - F5 Cloud Docs: https://clouddocs.f5.com/cloud-services/latest/f5-cloud-services-Essential.App.Protect-About.html
 - F5 DevCentral（コミュニティ）: https://devcentral.f5.com/
+- AskF5: https://support.f5.com/csp/home
 
 コンテンツ
 ==============================================
