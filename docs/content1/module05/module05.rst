@@ -16,10 +16,12 @@ Let’t Encryptを利用してサーバ証明書を取得します。とりあ�
 #. インストラクションに従い、**E-mail address** 、**Y** 、**N** と入力します。**Congratulations!** と表示されれば成功です。/etc/nginx/nginx.confを開き、サーバ証明書、秘密鍵のパスが自動的に記載されていることを確認します。自動的にnginx.confが上書きされていない場合は、手動で修正します。
 
     .. image:: images/mod5-1.png
+        :scale: 70%
     |  
 #. ブラウザでhttps://<WEBサーバのFQDN＞にアクセスし、サーバ証明書が表示されることを確認します。
 
     .. image:: images/mod5-2.png
+        :scale: 60%
     |  
 #. ensslコマンドを利用し、プライベートキーを **PKCS#8** フォーマットから **PKCS#1** フォーマットに変換し、SCPコマンドなどでプライベートキーと証明書（fullchain.pem）をダウンロードします。(ご参考ページ： `valid PKCS#1, ASN.1 DER form - while adding new certificate <https://f5cloudservices.zendesk.com/hc/en-us/articles/360055650294-Issue-Receiving-error-Private-key-is-not-in-valid-PKCS-1-ASN-1-DER-form-while-adding-new-certificate>`__ ）
 

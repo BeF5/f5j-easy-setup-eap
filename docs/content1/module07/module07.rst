@@ -4,7 +4,8 @@ WAFの動作確認テスト
 #. クライアントブラウザから、Webサーバに情報取得目的（https://xxxxxx/nginx.config）でアクセスします。
 
     .. image:: images/mod7-1.png
-        :scale: 40%
+        :scale: 50%
+        :align: center
     |  
 #. EAPのトップ画面から、**VIEW EVENTS** をクリックすると、ファイルへのイリーガルアクセスのバイオレーションのログが確認できます。Statusは、**Not blocked** となっていることが確認できます。
 
