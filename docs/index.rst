@@ -13,10 +13,9 @@ F5 Cloud Services Essential App Protect Serice 簡単セットアップガイド
 このページでは、これらのオフィシャルなドキュメントの補足となる資料や、複数の機能を組合せてソリューションを実現する方法をご紹介いたします。
 F5のオフィシャルなドキュメントはこちらにございます。
 
-- ` About the F5 Essential App Protect Service <https://clouddocs.f5.com/cloud-services/latest/f5-cloud-services-Essential.App.Protect-About.html>`__
-- ` F5 DevCentral（F5コミュニティサイト） < https://devcentral.f5.com//>`__ 
-- ` AskF5（F5全般マニュアル、バグ情報など） < https://support.f5.com/csp/home>`__ 
-
+- `About the F5 Essential App Protect Service <https://clouddocs.f5.com/cloud-services/latest/f5-cloud-services-Essential.App.Protect-About.html>`__
+- `F5 DevCentral（F5コミュニティサイト） <https://devcentral.f5.com/>`__ 
+- `AskF5（F5全般マニュアル、バグ情報など） <https://support.f5.com/csp/home>`__ 
 
 コンテンツ
 ==============================================

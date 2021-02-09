@@ -3,11 +3,11 @@
 
 EAPは、AWSのCloudFrontと連携が可能です。またその設定もEAPの管理画面上から行うことができます。
 
-#. **PROTECT APPLICATION** の **Integrations** タブにて、**Manage** をクリックします。
+#. **PROTECT APPLICATION** の **Integrations** タブにて、:guilabel:`Manage` をクリックします。
 
     .. image:: images/mod8-1.png
     |  
-#. **Enabele Caching** にチェックを入れます。
+#. **Enable Caching** にチェックを入れます。
 
     .. image:: images/mod8-2.png
     |  

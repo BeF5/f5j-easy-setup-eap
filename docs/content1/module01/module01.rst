@@ -1,7 +1,7 @@
 F5 Cloud Services Essential App Protect（EAP）とは
 =================================================
 
-F5 Cloud Services Essential App Protect（略してEAP）は、F5が提供するSaaS形式のWAFサービスです。 ` F5 Cloud Serviceの管理画面 <https://portal.cloudservices.f5.com/> `__ からアカウントを作成頂くだけで、すぐにご利用頂けます。（今のところ、30日間無料でお試し頂くことも可能です！）
+F5 Cloud Services Essential App Protect（略してEAP）は、F5が提供するSaaS形式のWAFサービスです。 `F5 Cloud Serviceの管理画面 <https://portal.cloudservices.f5.com/>`__ からアカウントを作成頂くだけで、すぐにご利用頂けます。（今のところ、30日間無料でお試し頂くことも可能です！）
 
  .. image:: images/mod1-1.png
       :scale: 60%
@@ -25,7 +25,7 @@ F5 Cloud Services Essential App Protect（略してEAP）は、F5が提供する
 
     .. csv-table:: 
          :header: "製品名／サービス名", "概要", "ご利用例"
-         :widths: 30, 50, 40
+         :widths: 10, 30, 20
 
          "F5 Cloud Services Essential App Protect Service (EAP)", "SaaS型WAF。サービスのGUIまたはAPIを通して、WAFを設定可能。シグネチャ、IPレピュテーションDBなどはF5側で更新。", "お手軽にすぐにWAFをご利用されたいケース"
          "Silverline Web Application Firewall", "WAFのマネージド・サービス。24時間365日F5のSOCチームにて運用。", "WAFの専門家に運用を任されたいケース"
