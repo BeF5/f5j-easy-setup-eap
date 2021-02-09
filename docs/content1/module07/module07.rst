@@ -27,6 +27,7 @@ WAFの動作確認テスト
 
     .. image:: images/mod7-6.png
         :scale: 60%
+        :align: center
     |  
 #. EAPのログを確認すると、**Blocked** となっていることが確認できます。
 
