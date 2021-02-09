@@ -3,7 +3,7 @@
 
 Let’t Encryptを利用してサーバ証明書を取得します。とりあえずhttp/80のWEBサーバでのテストでも構わないという方は本章はスキップして下さい。
 
-#. Certbot とNGINXプラグインをインストールします。Complete!と表示されればインストール完了です。（注：本ガイド作成時点ではAmaon Linux 2では公式にはサポートされていないようですが、正常に動作はするようです。（ご参考サイト： `Certificate Automation: Amazon Linux 2 での Let's Encrypt と Certbot の使用 <https://docs.aws.amazon.com/ja_jp/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html#letsencrypt >`__ 、 `User Guide <https://certbot.eff.org/docs/using.html#nginx>`__ ）
+#. Certbot とNGINXプラグインをインストールします。Complete!と表示されればインストール完了です。（注：本ガイド作成時点ではAmaon Linux 2では公式にはサポートされていないようですが、正常に動作はするようです。（ご参考サイト： `Certificate Automation: Amazon Linux2でのLet's EncryptとCertbotの使用 <https://docs.aws.amazon.com/ja_jp/AWSEC2/latest/UserGuide/SSL-on-amazon-linux-2.html#letsencrypt>`__ 、 `User Guide <https://certbot.eff.org/docs/using.html#nginx>`__ ）
 
     .. code-block:: bash
 

@@ -51,6 +51,7 @@ EAPのセットアップ
 #. DNSサーバの設定に戻り（以下の画面はRoute53）、既存のAレコードをCNAMEレコードに変更し、IPアドレスを削除して、先程コピーしたCNAMEをルーティング先として登録し保存します。
 
     .. image:: images/mod6-12.png
+        :scale: 60%
     |  
 #. EAPの画面に戻り、**Test updated DNS** をクリックすると、**Success** が表示されることを確認します。 :guilabel:`Done` をクリックすると、EAPのデプロイが始まります。
 
