@@ -27,11 +27,11 @@ EAPのセットアップ
 
     .. image:: images/mod6-5.png
     |  
-#. 対象WEBサーバのFQDNを入力し、 :guilabel:`Save＆Confinue` をクリックします。
+#. 対象WEBサーバのFQDNを入力し、 :guilabel:`Save＆Continue` をクリックします。
 
     .. image:: images/mod6-6.png
     |  
-#. EAPが対象のWEBサーバにアクセスし、その情報が表示されるので内容を確認します。確認できたら、EAPをデプロイするAWSリージョンを選択し、 :guilabel:`Save＆Confinue` をクリックします。
+#. EAPが対象のWEBサーバにアクセスし、その情報が表示されるので内容を確認します。確認できたら、EAPをデプロイするAWSリージョンを選択し、 :guilabel:`Save＆Continue` をクリックします。
 
     .. image:: images/mod6-7.png
     |  
@@ -39,11 +39,11 @@ EAPのセットアップ
 
     .. image:: images/mod6-8.png
     |  
-#. サーバ証明書とプライベートキー、チェーン証明書を登録し、:guilabel:`Save＆Confinue` をクリックします。（必ずHTTPSにリダイレクトしたい場合は、リダイレクトのチェックを入れます。）
+#. サーバ証明書とプライベートキー、チェーン証明書を登録し、:guilabel:`Save＆Continue` をクリックします。（必ずHTTPSにリダイレクトしたい場合は、リダイレクトのチェックを入れます。）
 
     .. image:: images/mod6-9.png
     |  
-#. 内容を確認し、:guilabel:`Save＆Confinue` をクリックします。
+#. 内容を確認し、:guilabel:`Save＆Continue` をクリックします。
 
     .. image:: images/mod6-10.png
     |  
