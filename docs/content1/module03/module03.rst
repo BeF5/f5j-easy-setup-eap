@@ -17,7 +17,7 @@ EAPで守る対象のWEBサーバはインターネット経由で接続でき�
     |  
 #. **自動割り当てパブリックIP** を **有効** にし、:guilabel:`次のステップ:...` をクリックします。（ここではパブリックIP割当以外はデフォルト設定としていますが、環境に応じて、VPC、サブネットなどをご選択下さい。）
 
-    .. image:: images/mod3-4.png
+    .. image:: images/mod3-4.png 
     |  
 #. ストレージの追加はデフォルト設定のまま、 :guilabel:`次のステップ:...` をクリックします。
 
@@ -69,8 +69,8 @@ EAPで守る対象のWEBサーバはインターネット経由で接続でき�
             sudo amazon-linux-extras install nginx1 -y
     .. note::
         ここでは、EAPの動作を簡易的に確認するために、OSS版のNGINXを利用しています。NGINXは全世界で幅広く利用されている高性能で軽量なWEBサーバです。ロードバランサ、コンテンツキャッシュ、Ingress Congrollerとしてもご利用可能です。有償版のNGINX Plusをご利用頂くことで様々なメリットがございます。OSS版と有償版の違いは以下のサイトをご確認下さい。
-        - `NGINX Plusプロダクトページ <https://www.nginx.co.jp/products/products-nginx/>`__
-        - `ブログ：NGINXとは？ NGINXとNGINX Plusを徹底解説します <https://www.nginx.co.jp/blog/what-is-nginx/>`__
+            - `NGINX Plusプロダクトページ <https://www.nginx.co.jp/products/products-nginx/>`__
+            - `ブログ：NGINXとは？ NGINXとNGINX Plusを徹底解説します <https://www.nginx.co.jp/blog/what-is-nginx/>`__
 #. インストールしたNGINXを毎回起動するように設定にし、NGINXを起動します。
 
     .. code-block:: bash

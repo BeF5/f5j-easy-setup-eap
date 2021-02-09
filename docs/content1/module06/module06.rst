@@ -1,13 +1,15 @@
 EAPのセットアップ
 =================================================
 
-#. F5 CloudServiceのアカウントを作成します。 `F5CSのサイト https://portal.cloudservices.f5.com/>`__ に接続し、:guilabel:`Sign up` をクリックします。
+#. F5 CloudServiceのアカウントを作成します。 `F5CSのサイト <https://portal.cloudservices.f5.com/>`__ に接続し、:guilabel:`Sign up` をクリックします。
 
     .. image:: images/mod6-1.png
+        :scale: 60%
     |  
-#. フォームの内容を記入し、 :guilabel:` Create account ` をクリックします。
+#. フォームの内容を記入し、 :guilabel:`Create account` をクリックします。
 
     .. image:: images/mod6-2.png
+        :scale: 60%
     |  
 #. F5CSにログオンできるようになったら、**Essentail App Protect** サービスにて、**Try it free** をクリックし、更に表示されるPop-upでも :guilabel:`Yes, start free trial` をクリックします。　
 
@@ -16,6 +18,7 @@ EAPのセットアップ
 #. :guilabel:`Go to this service` をクリックします。
 
     .. image:: images/mod6-4.png
+        :scale: 60%
     |  
 #. EAPのトップ画面が表示されます。トップ画面には、24時間以内の世界のThreat mapが表示されています。:guilabel:`Start protecting your app` をクリックします。
 
