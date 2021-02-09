@@ -47,7 +47,7 @@ EAPのセットアップ
 
     .. image:: images/mod6-10.png
     |  
-#. CNAMEが自動で払い出されするので、その内容をコピーします。
+#. CNAMEが自動で払い出されるので、その内容をコピーします。
 
     .. image:: images/mod6-11.png
     |  
