@@ -19,6 +19,7 @@ EAPで守る対象のWEBサーバはインターネット経由で接続でき�
 
     .. image:: images/mod3-4.png
         :scale: 60%
+        :align: center
     |  
 #. ストレージの追加はデフォルト設定のまま、 :guilabel:`次のステップ: ...` をクリックします。
 
@@ -40,6 +41,7 @@ EAPで守る対象のWEBサーバはインターネット経由で接続でき�
 
     .. image:: images/mod3-9.png
         :scale: 60%
+        :align: center
     |  
 #. 作成したEC2インスタンスが実行中となり、ステータスチェックに合格したら、該当インスタンスを選択し、:guilabel:`接続` を押します。
 

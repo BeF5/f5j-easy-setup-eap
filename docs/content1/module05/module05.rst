@@ -22,6 +22,7 @@ Let’t Encryptを利用してサーバ証明書を取得します。とりあ�
 
     .. image:: images/mod5-2.png
         :scale: 60%
+        :align: center
     |  
 #. ensslコマンドを利用し、プライベートキーを **PKCS#8** フォーマットから **PKCS#1** フォーマットに変換し、SCPコマンドなどでプライベートキーと証明書（fullchain.pem）をダウンロードします。(ご参考ページ： `valid PKCS#1, ASN.1 DER form - while adding new certificate <https://f5cloudservices.zendesk.com/hc/en-us/articles/360055650294-Issue-Receiving-error-Private-key-is-not-in-valid-PKCS-1-ASN-1-DER-form-while-adding-new-certificate>`__ ）
 

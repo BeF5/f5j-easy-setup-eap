@@ -5,11 +5,13 @@ EAPのセットアップ
 
     .. image:: images/mod6-1.png
         :scale: 60%
+        :align: center
     |  
 #. フォームの内容を記入し、 :guilabel:`Create account` をクリックします。
 
     .. image:: images/mod6-2.png
         :scale: 60%
+        :align: center
     |  
 #. F5CSにログオンできるようになったら、**Essentail App Protect** サービスにて、**Try it free** をクリックし、更に表示されるPop-upでも :guilabel:`Yes, start free trial` をクリックします。　
 
@@ -19,6 +21,7 @@ EAPのセットアップ
 
     .. image:: images/mod6-4.png
         :scale: 60%
+        :align: center
     |  
 #. EAPのトップ画面が表示されます。トップ画面には、24時間以内の世界のThreat mapが表示されています。:guilabel:`Start protecting your app` をクリックします。
 
@@ -52,6 +55,7 @@ EAPのセットアップ
 
     .. image:: images/mod6-12.png
         :scale: 60%
+        :align: center
     |  
 #. EAPの画面に戻り、**Test updated DNS** をクリックすると、**Success** が表示されることを確認します。 :guilabel:`Done` をクリックすると、EAPのデプロイが始まります。
 
