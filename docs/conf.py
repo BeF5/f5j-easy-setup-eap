@@ -114,3 +114,7 @@ epub_exclude_files = ['search.html']
 todo_include_todos = True
 
 html_style = 'css/myf5_theme.css' 
+
+extensions = [
+    'sphinx_copybutton'
+]
