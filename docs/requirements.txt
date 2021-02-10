@@ -4,3 +4,4 @@ sphinxjp.themes.basicstrap
 sphinxcontrib-googleanalytics
 cloud_sptheme
 sphinx_copybutton
+sphinx_rtd_theme
