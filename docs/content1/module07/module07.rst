@@ -19,7 +19,7 @@ WAFの動作確認テスト
 
     .. image:: images/mod7-4.png
     |  
-#. EAPのWAF設定画面に戻り、**Monitoring** モードから **Blocking** モードに変更し、Updateボタンをクリックします。
+#. EAPのWAF設定画面に戻り、**Monitoring** モードから **Blocking** モードに変更し、:guilabel:`Update` をクリックします。
 
     .. image:: images/mod7-5.png
     |  

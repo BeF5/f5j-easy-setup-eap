@@ -1,7 +1,7 @@
 CDNの動作確認テスト
 =================================================
 
-#. クライアントブラウザのInspection機能を有効にし、再度Webサーバにアクセスします。数回アクセスすると、**x-chache** が **Hit from cloudfront** となることを確認します。
+#. クライアントブラウザのInspection機能を有効にし、再度Webサーバにアクセスします。数回アクセスすると、**x-cache** が **Hit from cloudfront** となることを確認します。
 
     .. image:: images/mod9-1.png
     |  
