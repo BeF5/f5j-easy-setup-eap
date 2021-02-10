@@ -3,7 +3,7 @@
    contain the root `toctree` directive.
 
 
-F5 Cloud Services Essential App Protect Serice 簡単セットアップガイド
+F5 Cloud Services Essential App Protect Service 簡単セットアップガイド
 ==============================================
 最終更新日: 2021年2月9日
 
@@ -21,7 +21,7 @@ F5のオフィシャルなドキュメントはこちらにございます。
 ==============================================
 こちらのページでは、以下の内容をご紹介しております。
 
-- 本セットアップガイドにて、F5 Cloud Services Essential App Protect Serice（以下、EAP）の初期設定方法についてご案内します。
+- 本セットアップガイドにて、F5 Cloud Services Essential App Protect Service（以下、EAP）の初期設定方法についてご案内します。
 - EAPは、SaaS型のWebアプリケーションファイアウォールです。
 - EAP によって、Web アプリケーション特有の攻撃に対する防御が可能となります。
 - F5 Advanced Web Application Firewall(AWAF)のコア機能がご利用頂けます。
