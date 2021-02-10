@@ -34,6 +34,7 @@ extensions = [
     'sphinx.ext.extlinks',
     'sphinx.ext.graphviz',
     'recommonmark',
+    'sphinx_copybutton'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -115,6 +116,3 @@ todo_include_todos = True
 
 html_style = 'css/myf5_theme.css' 
 
-extensions = [
-    'sphinx_copybutton'
-]
