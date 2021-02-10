@@ -22,7 +22,7 @@ copyright = '2021, F5ネットワークスジャパン合同会社'
 author = 'F5ネットワークスジャパン合同会社'
 
 
-# -- General configuration ---------------------------------------------------
+# -- General configuration --------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
