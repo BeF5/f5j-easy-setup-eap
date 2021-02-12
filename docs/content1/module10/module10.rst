@@ -26,7 +26,7 @@ AWS ALBで負荷分散をする場合
 F5CS DNS Load Balancerで負荷分散をする場合
 ---------------
 
-#. EAPの他に、F5CSのDNS Load Balancerサービスをご利用頂くことでも負荷分散がです。EAP配下にF5CS DNSLBのDNS名を登録することで連携が可能となります。
+#. EAPの他に、`F5CSのDNS Load Balancerサービス <https://clouddocs.f5.com/cloud-services/latest/f5-cloud-services-GSLB-About.html>`__ をご利用頂くことでも負荷分散がです。EAP配下にF5CS DNSLBのDNS名を登録することで連携が可能となります。
 
     .. image:: images/mod10-4.png
     |  
