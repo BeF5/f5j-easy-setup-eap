@@ -25,7 +25,7 @@ F5 Cloud Services Essential App Protect Service（略してEAP）は、F5が提�
 
 .. csv-table:: 
         :header: "製品名／サービス名", "概要", "ご利用例"
-        :widths: 6, 10, 8
+        :widths: 6, 8, 6
 
         "| F5 Cloud Services
         | `Essential App Protect Service Service (EAP) <https://www.f5.com/ja_jp/products/ways-to-deploy/cloud-services/essential-app-protect-service>`__", "| SaaS型WAF。サービスのGUI／APIを通して、WAFを設定可能。
