@@ -25,13 +25,14 @@ F5 Cloud Services Essential App Protect Service（略してEAP）は、F5が提�
 
 .. csv-table:: 
         :header: "製品名／サービス名", "概要", "ご利用例"
-        :widths: 8, 25, 15
+        :widths: 8, 22, 14
 
         "| F5 Cloud Services
-        | `Essential App Protect Service Service (EAP) <https://www.f5.com/ja_jp/products/ways-to-deploy/cloud-services/essential-app-protect-service>`__", "| SaaS型WAF。サービスのGUIまたはAPIを通して、WAFを設定可能。
+        | `Essential App Protect Service Service (EAP) <https://www.f5.com/ja_jp/products/ways-to-deploy/cloud-services/essential-app-protect-service>`__", "| SaaS型WAF。サービスのGUI／APIを通して、WAFを設定可能。
         | シグネチャ、IPレピュテーションDBなどはF5側で更新。", "お手軽にすぐにWAFをご利用されたいケース"
         "| Silverline 
-        | `Web Application Firewall <https://www.f5.com/ja_jp/products/security/silverline/web-application-firewall>`__", "WAFのマネージド・サービス。24時間365日F5のSOCチームにて運用。", "WAFの専門家に運用を任されたいケース"
+        | `Web Application Firewall <https://www.f5.com/ja_jp/products/security/silverline/web-application-firewall>`__", "| WAFのマネージド・サービス。
+        "| 24時間365日F5のSOCチームにて運用。", "WAFの専門家に運用を任されたいケース"
         "`F5 Advanced Web Application Firewall <https://www.f5.com/ja_jp/products/security/advanced-waf>`__ ", "| オンプレ、プラベートクラウド、パブリッククラウドなど
         | 場所を問わずご利用可能なアプライアンス型WAF。", "| BIG-IP LTMにアドオンされたいケース
         | 自社で柔軟にWAFを運用されたいケース"

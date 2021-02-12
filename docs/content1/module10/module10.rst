@@ -22,12 +22,16 @@ AWS ALBで負荷分散をする場合
 
     .. image:: images/mod10-3.png
     |  
+#. 設EAPデプロイ後、ALBの登録は名前解決後のIPアドレスで登録されてしまうので、Regionの設定配下のIPアドレスをALBのDNS名に変更します。
+
+    .. image:: images/mod10-4.png
+    |  
 
 F5CS DNS Load Balancerで負荷分散をする場合
 ---------------
 
 #. EAPの他に、`F5CSのDNS Load Balancerサービス <https://clouddocs.f5.com/cloud-services/latest/f5-cloud-services-GSLB-About.html>`__ をご利用頂くことでも負荷分散がです。EAP配下にF5CS DNSLBのDNS名を登録することで連携が可能となります。
 
-    .. image:: images/mod10-4.png
+    .. image:: images/mod10-5.png
     |  
 
