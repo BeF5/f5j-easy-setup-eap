@@ -32,7 +32,7 @@ F5 Cloud Services Essential App Protect Service（略してEAP）は、F5が提�
         | シグネチャ、IPレピュテーションDBなどはF5側で更新。", "お手軽にすぐにWAFをご利用されたいケース"
         "| Silverline 
         | `Web Application Firewall<https://www.f5.com/ja_jp/products/security/silverline/web-application-firewall>`__", "| WAFのマネージド・サービス。
-        "| 24時間365日F5のSOCチームにて運用。", "WAFの専門家に運用を任されたいケース"
+        | 24時間365日F5のSOCチームにて運用。", "WAFの専門家に運用を任されたいケース"
         "`F5 Advanced Web Application Firewall<https://www.f5.com/ja_jp/products/security/advanced-waf>`__ ", "| オンプレ、プラベートクラウド、パブリッククラウドなど
         | 場所を問わずご利用可能なアプライアンス型WAF。", "| BIG-IP LTMにアドオンされたいケース
         | 自社で柔軟にWAFを運用されたいケース"
